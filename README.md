@@ -1,1 +1,1 @@
-rsschool-cv
+https://Spartakded.github.io/rsschool-cv/cv
